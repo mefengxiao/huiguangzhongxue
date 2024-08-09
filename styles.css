@@ -1,0 +1,55 @@
+body {
+    font-family: MiSans;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
+.description {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.font-info {
+
+    position: fixed;
+
+    bottom: 10px; /* 距离底部的距离 */
+
+    right: 10px; /* 距离右侧的距离 */
+
+    font-size: 12px;
+
+    color: #666; /* 文字颜色 */
+
+    z-index: 999; /* 确保文本在所有内容之上 */
+
+}
