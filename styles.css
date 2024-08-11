@@ -6,6 +6,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+     position: relative;
+    min-height: 100vh; /* 设置 body 高度至少为视口高度 */
+    margin: 0;
 }
 
 .container {
@@ -52,4 +55,17 @@ body {
 
     z-index: 999; /* 确保文本在所有内容之上 */
 
+}
+.github-link {
+    position: absolute;
+    bottom: 10px; /* 距离底部的距离 */
+    left: 10px; /* 距离左边的距离 */
+    display: flex;
+    align-items: center;
+}
+
+.github-link img {
+    width: 30px; /* 图标大小 */
+    height: auto;
+    margin-right: 5px; /* 图标与文字之间的间距 */
 }
