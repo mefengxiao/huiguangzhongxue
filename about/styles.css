@@ -1,0 +1,48 @@
+* {font-family: MiSans}
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main section {
+    margin: 20px;
+}
+
+footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.font-info {
+
+    position: fixed;
+
+    bottom: 10px; /* 距离底部的距离 */
+
+    right: 10px; /* 距离右侧的距离 */
+
+    font-size: 12px;
+
+    color: #666; /* 文字颜色 */
+
+    z-index: 999; /* 确保文本在所有内容之上 */
+
+}
