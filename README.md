@@ -2,7 +2,10 @@
 ===========================
 <p align="center">
    <a href="README.md">[中文]</a> |
-      <a href="readme/README_CNTCHKMO.md">[中文繁体]</a> |
+   <a href="readme/README_CNTCHKMO.md">[中文繁体]</a> |
+   <a href="French.md">[Français]</a> |
+   <a href="readme/README_RU.md">[Русский]</a> |
+   <a href="readme/README_US.md">[USA English]</a> |
    <a href="readme/README_EN.md">[English]</a>
 </p>
 
