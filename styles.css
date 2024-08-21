@@ -7,15 +7,15 @@ body {
     height: 100vh;
     margin: 0;
      position: relative;
-    min-height: 100vh; /* 设置 body 高度至少为视口高度 */
+    min-height: 100vh;
     margin: 0;
 }
 
-.container {
+.a {
     text-align: center;
 }
 
-.image {
+.b {
     max-width: 100%;
     height: auto;
 }
@@ -25,7 +25,7 @@ body {
     font-size: 24px;
 }
 
-.button {
+.c {
     display: inline-block;
     padding: 10px 20px;
     color: white;
@@ -41,31 +41,31 @@ body {
     background-color: #0056b3;
 }
 
-.font-info {
+.eeeeee {
 
     position: fixed;
 
-    bottom: 10px; /* 距离底部的距离 */
+    bottom: 10px;
 
-    right: 10px; /* 距离右侧的距离 */
+    right: 10px;
 
     font-size: 12px;
 
-    color: #666; /* 文字颜色 */
+    color: #666;
 
-    z-index: 999; /* 确保文本在所有内容之上 */
+    z-index: 999; 
 
 }
-.github-link {
+.d {
     position: absolute;
-    bottom: 10px; /* 距离底部的距离 */
-    left: 10px; /* 距离左边的距离 */
+    bottom: 10px; 
+    left: 10px; 
     display: flex;
     align-items: center;
 }
 
 .github-link img {
-    width: 30px; /* 图标大小 */
+    width: 30px; 
     height: auto;
-    margin-right: 5px; /* 图标与文字之间的间距 */
+    margin-right: 5px; 
 }

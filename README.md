@@ -1,5 +1,6 @@
 国际原神中学
 ===========================
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 <p align="center">
    <a href="README.md">[中文]</a> |
    <a href="readme/README_CNTCHKMO.md">[中文繁体]</a> |
