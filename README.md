@@ -10,6 +10,9 @@
    <a href="readme/README_EN.md">[English]</a>
 </p>
 
+![capture_20241003114134449_compressed_1727927367408](https://github.com/user-attachments/assets/2dae87fe-9ad8-4859-95a4-3456b740765d)
+
+
 这只是一个用来白嫖github的静态网站托管
 
 由于我们学校没有官方网站，我又想买个域名嘲笑一下学校，所以才会有这个项目
